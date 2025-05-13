@@ -95,3 +95,4 @@
 /Users/floyz/Projects/MyAspNet9App/obj/Debug/net9.0/MyAspNet9App.pdb
 /Users/floyz/Projects/MyAspNet9App/obj/Debug/net9.0/MyAspNet9App.genruntimeconfig.cache
 /Users/floyz/Projects/MyAspNet9App/obj/Debug/net9.0/ref/MyAspNet9App.dll
+/Users/floyz/Projects/MyAspNet9App/obj/Debug/net9.0/MyAspNet9App.sourcelink.json
